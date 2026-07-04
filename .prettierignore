@@ -3,3 +3,5 @@ node_modules
 __tests__
 *.test.js
 dist
+benchmarks
+e2e
